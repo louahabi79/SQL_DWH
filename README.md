@@ -741,4 +741,4 @@ This project is open source and available under the MIT License. See LICENSE fil
 
 **Last Updated**: 2026-08-30  
 **Repository**: https://github.com/louahabi79/SQL_DWH  
-**Author**: louahabi79
+**Author**: Abdenour LOUAHABI
